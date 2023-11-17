@@ -5,7 +5,7 @@ description = ""
 authors = ["alexeymametyev <mametevalex@gmail.com>"]
 license = "MIT"
 readme = "README.md"
-packages = [{include = "skill_tgbot"}]
+packages = [{include = "skill_bot"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
