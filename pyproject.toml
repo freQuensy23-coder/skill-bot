@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "skill-tgbot"
+name = "skill_bot"
 version = "0.1.0"
 description = ""
 authors = ["alexeymametyev <mametevalex@gmail.com>"]

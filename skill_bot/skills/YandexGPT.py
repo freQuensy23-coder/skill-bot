@@ -1,4 +1,4 @@
-from src.skills.BaseSkill import BaseSkill
+from skill_bot.skills.BaseSkill import BaseSkill
 
 
 class YandexGPTSummarizeSkill(BaseSkill):
