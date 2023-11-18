@@ -1,4 +1,5 @@
-import os
+"""Configuration file for API keys"""
+import os # for environment variables
 from dotenv import load_dotenv  # load environment variables from .env file
 
 load_dotenv()
