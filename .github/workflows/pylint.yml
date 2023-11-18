@@ -22,4 +22,4 @@ jobs:
         poetry install
     - name: Analysing the code with pylint
       run: |
-        pylint $(git ls-files '*.py') --disable=C0111, too-few-public-methods
+        pylint $(git ls-files '*.py') --disable=too-few-public-methods
